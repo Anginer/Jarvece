@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvece</string>
+    <string name="pairing">Pairing</string>
+    <string name="create">Créer un nouveau compte</string>
+    <string name="forgot">Mot de passe oublié</string>
+    <string name="coToDe">Connectez vous à un device : </string>
+    <string name="action_settings">Settings</string>
+    <string name="bienvenue">Demarrer</string>
+    <string name="retour">Retour</string>
+    <string name="parametre">Paramètres</string>
+    <string name="EnvoyerInfo">Envoyer info</string>
+    <string name="Ajout">+</string>
+    <string name="Supp">-</string>
+    <string name="Logindp">Login : </string>
+    <string name="Login">Login</string>
+    <string name="Passworddp">Password : </string>
+    <string name="Password">Password</string>
+    <string name="Retour">Retour</string>
+    <string name="Valider">Valider</string>
+    <string name="Deconnexion">Déconnexion ?</string>
+    <string name="Oui">Oui</string>
+    <string name="Suppression">Suppression</string>
+</resources>
